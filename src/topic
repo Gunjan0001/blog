@@ -1,0 +1,30 @@
+Frontend development ke liye Firebase ka istemal karne ke liye kuch mukhya topics hain jo aapko cover karna chahiye:
+
+Firebase Setup:
+
+Firebase project create karna aur Firebase SDK ko apne project mein integrate karna.
+Authentication:
+
+User authentication implement karna Firebase Authentication service ka istemal karke.
+Firestore Database:
+
+Real-time database interactions ke liye Firestore database setup karna aur data ko store aur retrieve karna.
+Storage:
+
+Files, images, aur other assets ko store karne ke liye Firebase Storage ka istemal karna.
+Hosting:
+
+Frontend web application ko Firebase Hosting par deploy karna.
+Analytics:
+
+User behavior aur app performance ka track rakhne ke liye Firebase Analytics ka istemal karna.
+Cloud Functions:
+
+Serverless backend logic run karne ke liye Firebase Cloud Functions ka istemal karna.
+Authentication Providers:
+
+Different authentication providers (Google, Facebook, Email/Password) ka setup karke users ko multiple login options provide karna.
+Security Rules:
+
+Firebase Security Rules ka istemal karke data access aur security ko configure karna.
+Yeh topics aapko Fire
